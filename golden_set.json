@@ -1,0 +1,8 @@
+[
+  {"pregunta": "¿Cómo se crea un entorno virtual?", "documento_id_esperado": "venv"},
+  {"pregunta": "¿Qué hace pip install?", "documento_id_esperado": "pip"},
+  {"pregunta": "¿Cómo defino una función asíncrona?", "documento_id_esperado": "asyncio"},
+  {"pregunta": "¿Para qué sirve un decorador?", "documento_id_esperado": "decoradores"},
+  {"pregunta": "¿Cómo capturo una excepción?", "documento_id_esperado": "excepciones"}
+]
+
